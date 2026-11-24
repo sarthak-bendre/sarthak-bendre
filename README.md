@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Sarthak Bendre 👋</h1>
 
 <p align="center">
-  <b>Data Analytics · Python · SQL · Data Visualization · Machine Learning</b><br>
+  <b>Data Analytics · Python · SQL · Power BI · Machine Learning</b><br>
   I turn raw data into clear insights, dashboards and decisions.
 </p>
 
@@ -10,7 +10,7 @@
 ### 📊 About me
 
 - 📈 My main focus is **data analytics**: cleaning and exploring data, finding patterns, and presenting what matters to the people making decisions.
-- 🧮 I work with **Python (Pandas, NumPy), SQL and visualization tools** to go from messy data to clear charts and dashboards.
+- 🧮 I work with **Python (Pandas, NumPy), SQL and Power BI** to go from messy data to clear charts and interactive dashboards, and I'm familiar with **Tableau**.
 - 🤖 I use **machine learning** when the question needs prediction, and I measure results rather than guess (accuracy, drift, retrieval scores).
 - 🏭 I enjoy business and operations problems: equipment failures, field-sales planning, billing and asset tracking.
 - 🌱 Currently strengthening: SQL for analytics, statistics, and dashboard storytelling.
@@ -35,6 +35,9 @@
 **Data analysis & visualization**<br>
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black)
+![Tableau](https://img.shields.io/badge/Tableau-E97627?style=flat-square&logo=tableau&logoColor=white)
+![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
@@ -42,7 +45,6 @@
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=flat-square&logo=plotly&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![Excel](https://img.shields.io/badge/Excel-217346?style=flat-square&logo=microsoftexcel&logoColor=white)
 
 **Databases**<br>
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
